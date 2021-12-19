@@ -13,3 +13,5 @@
 
 - `_project_starter_` folder containing the boilerplate to be used in all the challenges
 - `index.html`, `script.js` and `style.css`
+
+#### Day 1 - Expanding Cards
