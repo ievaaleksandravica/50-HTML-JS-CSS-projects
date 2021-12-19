@@ -1,17 +1,3 @@
-#### Introduction
-
-##### Setup
-
-- Using `vs.code` as a text editor
-- Using `emit` as a plugin for faster HTML (many useful shortcuts)
-- Using `Live Server` to open up development server (auto-reload)
-- Using `Auto Rename Tag` which renames the end tag if you rename the beginning tag
-- Using `Bracket Pair Colorizer` to color code the different brackets
-- Use `Prettier - Code formatter` for nicer visualization of the code
-
-##### Create a boilerplate
-
-- `_project_starter_` folder containing the boilerplate to be used in all the challenges
-- `index.html`, `script.js` and `style.css`
-
 #### Day 1 - Expanding Cards
+<img src="https://user-images.githubusercontent.com/79845207/146680917-194ec8e8-4fe4-4e3c-a06e-a27aff661562.png" data-canonical-src="https://user-images.githubusercontent.com/79845207/146680917-194ec8e8-4fe4-4e3c-a06e-a27aff661562.png" width="400" height="200" />
+<img src="https://user-images.githubusercontent.com/79845207/146680909-398a0c5a-ccbe-47d3-9a95-6ab834d6eb7f.png" data-canonical-src="https://user-images.githubusercontent.com/79845207/146680909-398a0c5a-ccbe-47d3-9a95-6ab834d6eb7f.png" width="400" height="200" />
