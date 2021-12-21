@@ -9,3 +9,7 @@
 <img src="https://user-images.githubusercontent.com/79845207/146807783-10a9844c-6fdc-4e91-817e-46b5dd74d07f.png" data-canonical-src="https://user-images.githubusercontent.com/79845207/146807783-10a9844c-6fdc-4e91-817e-46b5dd74d07f.png" width="400" height="130" />
 
 #### Day 3 - Rotating Navigation
+<img src="https://user-images.githubusercontent.com/79845207/146992193-a52847d9-43ea-4971-acff-04f2b6ed1865.png" data-canonical-src="https://user-images.githubusercontent.com/79845207/146992193-a52847d9-43ea-4971-acff-04f2b6ed1865.png" width="400" height="150" />
+<img src="https://user-images.githubusercontent.com/79845207/146992210-084ceaf5-eac1-4180-9de5-515607439043.png" data-canonical-src="https://user-images.githubusercontent.com/79845207/146992210-084ceaf5-eac1-4180-9de5-515607439043.png" width="400" height="130" />
+
+#### Day 4 - Hidden Search Widget
