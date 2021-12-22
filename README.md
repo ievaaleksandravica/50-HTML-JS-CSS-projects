@@ -13,3 +13,8 @@
 <img src="https://user-images.githubusercontent.com/79845207/146992210-084ceaf5-eac1-4180-9de5-515607439043.png" data-canonical-src="https://user-images.githubusercontent.com/79845207/146992210-084ceaf5-eac1-4180-9de5-515607439043.png" width="400" height="130" />
 
 #### Day 4 - Hidden Search Widget
+<img src="https://user-images.githubusercontent.com/79845207/147117820-bcfd9e33-1bfa-4d9f-9234-4008fbcff54e.png" data-canonical-src="https://user-images.githubusercontent.com/79845207/147117820-bcfd9e33-1bfa-4d9f-9234-4008fbcff54e.png" width="400" />
+<img src="https://user-images.githubusercontent.com/79845207/147117853-78e69abf-c59d-444b-a1ec-611987bafb1c.png" data-canonical-src="https://user-images.githubusercontent.com/79845207/147117853-78e69abf-c59d-444b-a1ec-611987bafb1c.png" width="400"/>
+
+#### Day 5 - Blurry Loading
+
