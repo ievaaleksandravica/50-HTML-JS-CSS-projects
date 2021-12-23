@@ -44,7 +44,7 @@ body {
 }
 
 .btn:focus,
-.input:focuse {
+.input:focus {
   outline: none;
 }
 
