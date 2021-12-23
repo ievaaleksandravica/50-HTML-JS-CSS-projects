@@ -17,4 +17,5 @@
 <img src="https://user-images.githubusercontent.com/79845207/147117853-78e69abf-c59d-444b-a1ec-611987bafb1c.png" data-canonical-src="https://user-images.githubusercontent.com/79845207/147117853-78e69abf-c59d-444b-a1ec-611987bafb1c.png" width="400"/>
 
 #### Day 5 - Blurry Loading
-
+<img src="https://user-images.githubusercontent.com/79845207/147263721-874e1d41-0cf2-42bb-9d1b-8937ae045339.png" data-canonical-src="https://user-images.githubusercontent.com/79845207/147263721-874e1d41-0cf2-42bb-9d1b-8937ae045339.png" width="400" />
+<img src="https://user-images.githubusercontent.com/79845207/147263856-c1cc2f67-62ba-47cc-92d8-395e9891227c.png" data-canonical-src="https://user-images.githubusercontent.com/79845207/147263856-c1cc2f67-62ba-47cc-92d8-395e9891227c.png" width="400"/>
