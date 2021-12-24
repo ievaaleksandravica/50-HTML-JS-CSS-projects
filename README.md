@@ -19,3 +19,11 @@
 #### Day 5 - Blurry Loading
 <img src="https://user-images.githubusercontent.com/79845207/147263721-874e1d41-0cf2-42bb-9d1b-8937ae045339.png" data-canonical-src="https://user-images.githubusercontent.com/79845207/147263721-874e1d41-0cf2-42bb-9d1b-8937ae045339.png" width="400" />
 <img src="https://user-images.githubusercontent.com/79845207/147263856-c1cc2f67-62ba-47cc-92d8-395e9891227c.png" data-canonical-src="https://user-images.githubusercontent.com/79845207/147263856-c1cc2f67-62ba-47cc-92d8-395e9891227c.png" width="400"/>
+
+#### Day 6 Scroll Animation
+<img src="https://user-images.githubusercontent.com/79845207/147336722-c0f1de98-163a-4154-abd8-10ee25bfed62.png" data-canonical-src="https://user-images.githubusercontent.com/79845207/147336722-c0f1de98-163a-4154-abd8-10ee25bfed62.png" width="400"/>
+<img src="https://user-images.githubusercontent.com/79845207/147336770-ee502087-cf55-4c80-9431-f8450612501e.png" data-canonical-src="https://user-images.githubusercontent.com/79845207/147336770-ee502087-cf55-4c80-9431-f8450612501e.png" width="400"/>
+
+
+
+
