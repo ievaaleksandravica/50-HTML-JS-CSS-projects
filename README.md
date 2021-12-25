@@ -24,6 +24,7 @@
 <img src="https://user-images.githubusercontent.com/79845207/147336722-c0f1de98-163a-4154-abd8-10ee25bfed62.png" data-canonical-src="https://user-images.githubusercontent.com/79845207/147336722-c0f1de98-163a-4154-abd8-10ee25bfed62.png" width="400"/>
 <img src="https://user-images.githubusercontent.com/79845207/147336770-ee502087-cf55-4c80-9431-f8450612501e.png" data-canonical-src="https://user-images.githubusercontent.com/79845207/147336770-ee502087-cf55-4c80-9431-f8450612501e.png" width="400"/>
 
-
-
+#### Day 7 Split Landing Page
+<img src="https://user-images.githubusercontent.com/79845207/147387606-161c25d2-3023-4d9b-9a2e-20a895b9ef0a.png" data-canonical-src="https://user-images.githubusercontent.com/79845207/147387606-161c25d2-3023-4d9b-9a2e-20a895b9ef0a.png" width="400"/>
+<img src="https://user-images.githubusercontent.com/79845207/147387611-40f6cce6-3979-4594-a998-0ae6e4ae6852.png" data-canonical-src="https://user-images.githubusercontent.com/79845207/147387611-40f6cce6-3979-4594-a998-0ae6e4ae6852.png" width="400"/>
 
