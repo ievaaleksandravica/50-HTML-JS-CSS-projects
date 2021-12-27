@@ -28,3 +28,7 @@
 <img src="https://user-images.githubusercontent.com/79845207/147387606-161c25d2-3023-4d9b-9a2e-20a895b9ef0a.png" data-canonical-src="https://user-images.githubusercontent.com/79845207/147387606-161c25d2-3023-4d9b-9a2e-20a895b9ef0a.png" width="400"/>
 <img src="https://user-images.githubusercontent.com/79845207/147387611-40f6cce6-3979-4594-a998-0ae6e4ae6852.png" data-canonical-src="https://user-images.githubusercontent.com/79845207/147387611-40f6cce6-3979-4594-a998-0ae6e4ae6852.png" width="400"/>
 
+#### Day 8 Form Input Wave
+<img src="https://user-images.githubusercontent.com/79845207/147483878-6eac9a64-e1ec-4819-9c86-a9e4a7bd2800.png" data-canonical-src="https://user-images.githubusercontent.com/79845207/147483878-6eac9a64-e1ec-4819-9c86-a9e4a7bd2800.png" width="400"/>
+<img src="https://user-images.githubusercontent.com/79845207/147483938-a6e54ff1-6fa5-4c2f-9691-d2ab49e4e822.png" data-canonical-src="https://user-images.githubusercontent.com/79845207/147483938-a6e54ff1-6fa5-4c2f-9691-d2ab49e4e822.png" width="400"/>
+
