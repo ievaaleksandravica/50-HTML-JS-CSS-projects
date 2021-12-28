@@ -32,3 +32,9 @@
 <img src="https://user-images.githubusercontent.com/79845207/147483878-6eac9a64-e1ec-4819-9c86-a9e4a7bd2800.png" data-canonical-src="https://user-images.githubusercontent.com/79845207/147483878-6eac9a64-e1ec-4819-9c86-a9e4a7bd2800.png" width="400"/>
 <img src="https://user-images.githubusercontent.com/79845207/147483938-a6e54ff1-6fa5-4c2f-9691-d2ab49e4e822.png" data-canonical-src="https://user-images.githubusercontent.com/79845207/147483938-a6e54ff1-6fa5-4c2f-9691-d2ab49e4e822.png" width="400"/>
 
+#### Day 9 Sound Board
+<img src="https://user-images.githubusercontent.com/79845207/147491435-01e45ecf-a98f-40c1-812a-b759c788065c.png" data-canonical-src="https://user-images.githubusercontent.com/79845207/147491435-01e45ecf-a98f-40c1-812a-b759c788065c.png" width="400"/>
+
+#### Day 10 Dad Jokes
+<img src="https://user-images.githubusercontent.com/79845207/147491381-6dec6998-fc21-4bb7-90a4-a94e27e689d3.png" data-canonical-src="https://user-images.githubusercontent.com/79845207/147491381-6dec6998-fc21-4bb7-90a4-a94e27e689d3.png" width="400"/>
+
