@@ -41,6 +41,13 @@
 #### Day 11 Event KeyCodes
 <img src="https://user-images.githubusercontent.com/79845207/147591553-c214cb43-3417-43ab-9fc7-d7a70a36833b.png" data-canonical-src="https://user-images.githubusercontent.com/79845207/147591553-c214cb43-3417-43ab-9fc7-d7a70a36833b.png" width="400"/>
 
+#### Day 12 FAQ Collapse
+<img src="https://user-images.githubusercontent.com/79845207/147593938-7f6244c7-5e8f-480c-8199-2099cd07d39b.png" data-canonical-src="https://user-images.githubusercontent.com/79845207/147593938-7f6244c7-5e8f-480c-8199-2099cd07d39b.png" width="400"/>
+<img src="https://user-images.githubusercontent.com/79845207/147593949-797511bd-1cd6-493f-a0cf-136d77e27b77.png" data-canonical-src="https://user-images.githubusercontent.com/79845207/147593949-797511bd-1cd6-493f-a0cf-136d77e27b77.png" width="400"/>
+
+#### Day 13 Random Choice Picker
+
+
 
 
 
