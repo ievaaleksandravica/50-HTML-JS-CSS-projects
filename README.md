@@ -46,8 +46,8 @@
 <img src="https://user-images.githubusercontent.com/79845207/147593949-797511bd-1cd6-493f-a0cf-136d77e27b77.png" data-canonical-src="https://user-images.githubusercontent.com/79845207/147593949-797511bd-1cd6-493f-a0cf-136d77e27b77.png" width="400"/>
 
 #### Day 13 Random Choice Picker
+<img src="https://user-images.githubusercontent.com/79845207/147684940-b8e06b8f-7172-4b3a-a371-a21747724937.png" data-canonical-src="https://user-images.githubusercontent.com/79845207/147684940-b8e06b8f-7172-4b3a-a371-a21747724937.png" width="400"/>
 
-
-
+#### Day 14 Animated Navigation
 
 
