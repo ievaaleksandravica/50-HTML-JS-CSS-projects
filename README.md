@@ -49,5 +49,8 @@
 <img src="https://user-images.githubusercontent.com/79845207/147684940-b8e06b8f-7172-4b3a-a371-a21747724937.png" data-canonical-src="https://user-images.githubusercontent.com/79845207/147684940-b8e06b8f-7172-4b3a-a371-a21747724937.png" width="400"/>
 
 #### Day 14 Animated Navigation
+<img src="https://user-images.githubusercontent.com/79845207/147745573-812c1691-d03e-4dc8-983f-54805920edc1.png" data-canonical-src="https://user-images.githubusercontent.com/79845207/147745573-812c1691-d03e-4dc8-983f-54805920edc1.png" width="400"/>
+<img src="https://user-images.githubusercontent.com/79845207/147745539-2f7e50a2-8140-4051-9aca-aa8ebe1e84d4.png" data-canonical-src="https://user-images.githubusercontent.com/79845207/147745539-2f7e50a2-8140-4051-9aca-aa8ebe1e84d4.png" width="400"/>
+
 
 
