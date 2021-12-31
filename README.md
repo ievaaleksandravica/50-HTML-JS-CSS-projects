@@ -53,5 +53,8 @@
 <img src="https://user-images.githubusercontent.com/79845207/147745539-2f7e50a2-8140-4051-9aca-aa8ebe1e84d4.png" data-canonical-src="https://user-images.githubusercontent.com/79845207/147745539-2f7e50a2-8140-4051-9aca-aa8ebe1e84d4.png" width="400"/>
 
 #### Day 15 Incrementing Counter
+<img src="https://user-images.githubusercontent.com/79845207/147822232-9c9dbee8-5e01-454c-9d76-51fc2336fd3e.png" data-canonical-src="https://user-images.githubusercontent.com/79845207/147822232-9c9dbee8-5e01-454c-9d76-51fc2336fd3e.png" width="400"/>
+<img src="https://user-images.githubusercontent.com/79845207/147822218-799e0d74-ee11-4a50-b2de-05ab86eecde5.png" data-canonical-src="https://user-images.githubusercontent.com/79845207/147822218-799e0d74-ee11-4a50-b2de-05ab86eecde5.png" width="400"/>
 
+#### Day 16 Drink Water
 
