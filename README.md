@@ -62,4 +62,9 @@
 <img src="https://user-images.githubusercontent.com/79845207/147873604-44bb6361-cffb-494a-a8fd-bbb491ce25c9.png" data-canonical-src="https://user-images.githubusercontent.com/79845207/147873604-44bb6361-cffb-494a-a8fd-bbb491ce25c9.png" width="400"/>
 
 #### Day 17 Movie App
+<img src="https://user-images.githubusercontent.com/79845207/148376836-87a7a903-39ab-4286-8207-0d305d5b5e37.png" data-canonical-src="https://user-images.githubusercontent.com/79845207/148376836-87a7a903-39ab-4286-8207-0d305d5b5e37.png" width="400"/>
+<img src="https://user-images.githubusercontent.com/79845207/148376916-434954b1-da37-4f76-ad98-a75c370e2a00.png" data-canonical-src="https://user-images.githubusercontent.com/79845207/148376916-434954b1-da37-4f76-ad98-a75c370e2a00.png" width="400"/>
+
+#### Day 18 Background Slider
+
 
