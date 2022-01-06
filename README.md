@@ -66,5 +66,10 @@
 <img src="https://user-images.githubusercontent.com/79845207/148376916-434954b1-da37-4f76-ad98-a75c370e2a00.png" data-canonical-src="https://user-images.githubusercontent.com/79845207/148376916-434954b1-da37-4f76-ad98-a75c370e2a00.png" width="400"/>
 
 #### Day 18 Background Slider
+<img src="https://user-images.githubusercontent.com/79845207/148387294-2eb968c5-2965-4297-9480-ad643256d63b.png" data-canonical-src="https://user-images.githubusercontent.com/79845207/148387294-2eb968c5-2965-4297-9480-ad643256d63b.png" width="400"/>
+<img src="https://user-images.githubusercontent.com/79845207/148387316-baeb9f80-76df-44e4-bb5b-01383f816791.png" data-canonical-src="https://user-images.githubusercontent.com/79845207/148387316-baeb9f80-76df-44e4-bb5b-01383f816791.png" width="400"/>
+
+#### Day 19 Theme Clock
+
 
 
