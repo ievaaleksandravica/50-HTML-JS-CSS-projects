@@ -80,5 +80,6 @@
 <img src="https://user-images.githubusercontent.com/79845207/148681019-fa5bc0fa-5bbd-4637-8468-f2d63345fa46.png" data-canonical-src="https://user-images.githubusercontent.com/79845207/148681019-fa5bc0fa-5bbd-4637-8468-f2d63345fa46.png" width="400"/>
 
 #### Day 22 Drawing App
+<img src="https://user-images.githubusercontent.com/79845207/148961887-1d0e7b2a-09ab-4914-96f8-f34dbac4f40b.png" data-canonical-src="https://user-images.githubusercontent.com/79845207/148961887-1d0e7b2a-09ab-4914-96f8-f34dbac4f40b.png" width="400"/>
 
-
+#### Day 23 Kinetic CSS Loader
