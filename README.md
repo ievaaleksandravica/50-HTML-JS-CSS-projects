@@ -83,3 +83,7 @@
 <img src="https://user-images.githubusercontent.com/79845207/148961887-1d0e7b2a-09ab-4914-96f8-f34dbac4f40b.png" data-canonical-src="https://user-images.githubusercontent.com/79845207/148961887-1d0e7b2a-09ab-4914-96f8-f34dbac4f40b.png" width="400"/>
 
 #### Day 23 Kinetic CSS Loader
+<img src="https://user-images.githubusercontent.com/79845207/149106131-6b6237c0-2d99-44f7-9861-e356d0a4c664.png" data-canonical-src="https://user-images.githubusercontent.com/79845207/149106131-6b6237c0-2d99-44f7-9861-e356d0a4c664.png" width="400"/>
+<img src="https://user-images.githubusercontent.com/79845207/149106231-bab043b0-47d6-46d4-ad4d-f4050355a11e.png" data-canonical-src="https://user-images.githubusercontent.com/79845207/149106231-bab043b0-47d6-46d4-ad4d-f4050355a11e.png" width="400"/>
+
+
