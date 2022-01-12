@@ -87,3 +87,7 @@
 <img src="https://user-images.githubusercontent.com/79845207/149106231-bab043b0-47d6-46d4-ad4d-f4050355a11e.png" data-canonical-src="https://user-images.githubusercontent.com/79845207/149106231-bab043b0-47d6-46d4-ad4d-f4050355a11e.png" width="400"/>
 
 #### Day 24 Content Placeholder
+<img src="https://user-images.githubusercontent.com/79845207/149157703-52d8b9eb-33a1-49da-88bb-383d0baf75dd.png" data-canonical-src="https://user-images.githubusercontent.com/79845207/149157703-52d8b9eb-33a1-49da-88bb-383d0baf75dd.png" width="400"/>
+<img src="https://user-images.githubusercontent.com/79845207/149157607-877a1849-9005-46ba-9ce8-648569e1811a.png" data-canonical-srchttps://user-images.githubusercontent.com/79845207/149157607-877a1849-9005-46ba-9ce8-648569e1811a.png" width="400"/>
+
+#### Day 25 Sticky NavBar
