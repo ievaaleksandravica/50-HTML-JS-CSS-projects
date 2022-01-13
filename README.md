@@ -95,3 +95,7 @@
 <img src="https://user-images.githubusercontent.com/79845207/149310816-bf506faa-7281-446e-b35f-43262a3898b0.png" data-canonical-src ="https://user-images.githubusercontent.com/79845207/149310816-bf506faa-7281-446e-b35f-43262a3898b0.png" width="400"/>
 
 #### Day 26 Double Vertical Slider
+<img src="https://user-images.githubusercontent.com/79845207/149321738-a38be78e-9466-4ddf-9806-ae72ee1d146d.png" data-canonical-src="https://user-images.githubusercontent.com/79845207/149321738-a38be78e-9466-4ddf-9806-ae72ee1d146d.png" width="400"/>
+<img src="https://user-images.githubusercontent.com/79845207/149321681-988581c1-0ec6-4c14-b134-8c1839fad9e3.png" data-canonical-src ="https://user-images.githubusercontent.com/79845207/149321681-988581c1-0ec6-4c14-b134-8c1839fad9e3.png" width="400"/>
+
+#### Day 27 Toast Notification
