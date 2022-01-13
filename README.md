@@ -100,6 +100,6 @@
 
 #### Day 27 Toast Notification
 <img src="https://user-images.githubusercontent.com/79845207/149330551-348faed5-6d41-42e0-a899-7e646a66fd7d.png" data-canonical-src ="https://user-images.githubusercontent.com/79845207/149330551-348faed5-6d41-42e0-a899-7e646a66fd7d.png" width="400"/>
-<img src="https://user-images.githubusercontent.com/79845207/149330593-b1c7bbc0-12a4-4682-b3f8-e4d52a68577f.png" data-canonical-src ="https://user-images.githubusercontent.com/79845207/149330593-b1c7bbc0-12a4-4682-b3f8-e4d52a68577f.png"/>
+<img src="https://user-images.githubusercontent.com/79845207/149330593-b1c7bbc0-12a4-4682-b3f8-e4d52a68577f.png" data-canonical-src ="https://user-images.githubusercontent.com/79845207/149330593-b1c7bbc0-12a4-4682-b3f8-e4d52a68577f.png" width="400"/>
 
 #### Day 28 GitHub Profiles
