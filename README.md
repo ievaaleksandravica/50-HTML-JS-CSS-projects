@@ -106,4 +106,9 @@
 <img src="https://user-images.githubusercontent.com/79845207/149361916-67955708-f4c5-40a6-847f-800caa4bd111.png" data-canonical-src ="https://user-images.githubusercontent.com/79845207/149361916-67955708-f4c5-40a6-847f-800caa4bd111.png" width="400"/>
 
 #### Day 29 Double Heart Click
+<img src="https://user-images.githubusercontent.com/79845207/149549019-59aa7b5f-3e36-42ff-9098-71df4b8d27f6.png" data-canonical-src ="https://user-images.githubusercontent.com/79845207/149549019-59aa7b5f-3e36-42ff-9098-71df4b8d27f6.png" width="400"/>
+<img src="https://user-images.githubusercontent.com/79845207/149549069-d2206bf9-5354-4bb5-bebb-9c2d29893ded.png" data-canonical-src ="https://user-images.githubusercontent.com/79845207/149549069-d2206bf9-5354-4bb5-bebb-9c2d29893ded.png" width="400"/>
+
+#### Day 30 Auto Text Effect
+
 
