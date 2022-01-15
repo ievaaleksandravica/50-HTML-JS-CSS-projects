@@ -110,5 +110,8 @@
 <img src="https://user-images.githubusercontent.com/79845207/149549069-d2206bf9-5354-4bb5-bebb-9c2d29893ded.png" data-canonical-src ="https://user-images.githubusercontent.com/79845207/149549069-d2206bf9-5354-4bb5-bebb-9c2d29893ded.png" width="400"/>
 
 #### Day 30 Auto Text Effect
+<img src="https://user-images.githubusercontent.com/79845207/149619590-016e4222-04cf-46fd-90ac-d2feeed6a8d0.png" data-canonical-src ="https://user-images.githubusercontent.com/79845207/149619590-016e4222-04cf-46fd-90ac-d2feeed6a8d0.png" width="400"/>
+
+#### Day 31 Password Generator
 
 
