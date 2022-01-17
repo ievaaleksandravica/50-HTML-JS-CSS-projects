@@ -120,5 +120,7 @@
 <img src="https://user-images.githubusercontent.com/79845207/149820078-614bc296-fb31-4354-81ce-af2ecc665be8.png" data-canonical-src ="https://user-images.githubusercontent.com/79845207/149820078-614bc296-fb31-4354-81ce-af2ecc665be8.png" width="400"/>
 
 #### Day 33 Notes App
+<img src="https://user-images.githubusercontent.com/79845207/149827050-3288b10f-cd0e-4edf-9026-bdd61d974fdb.png" data-canonical-src ="https://user-images.githubusercontent.com/79845207/149827050-3288b10f-cd0e-4edf-9026-bdd61d974fdb.png" width="400"/>
+<img src="https://user-images.githubusercontent.com/79845207/149827127-dffa701a-7da9-41da-9ec2-2a1995a264fe.png" data-canonical-src ="https://user-images.githubusercontent.com/79845207/149827127-dffa701a-7da9-41da-9ec2-2a1995a264fe.png" width="400"/>
 
-
+#### Day 34 Animated Countdown
