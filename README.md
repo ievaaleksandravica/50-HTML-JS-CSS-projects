@@ -124,3 +124,9 @@
 <img src="https://user-images.githubusercontent.com/79845207/149827127-dffa701a-7da9-41da-9ec2-2a1995a264fe.png" data-canonical-src ="https://user-images.githubusercontent.com/79845207/149827127-dffa701a-7da9-41da-9ec2-2a1995a264fe.png" width="400"/>
 
 #### Day 34 Animated Countdown
+<img src="https://user-images.githubusercontent.com/79845207/149938894-3e3d9d3a-f8f3-4bd5-a18f-5000016d1377.png" data-canonical-src ="https://user-images.githubusercontent.com/79845207/149938894-3e3d9d3a-f8f3-4bd5-a18f-5000016d1377.png" width="400"/>
+<img src="https://user-images.githubusercontent.com/79845207/149938943-73c3c3a5-a688-41ae-8c4c-228d139f93f8.png" data-canonical-src ="https://user-images.githubusercontent.com/79845207/149938943-73c3c3a5-a688-41ae-8c4c-228d139f93f8.png" width="400"/>
+
+#### Day 35 Image Carousel
+
+<img src="https://user-images.githubusercontent.com/79845207/149827127-dffa701a-7da9-41da-9ec2-2a1995a264fe.png" data-canonical-src ="https://user-images.githubusercontent.com/79845207/149827127-dffa701a-7da9-41da-9ec2-2a1995a264fe.png" width="400"/>
