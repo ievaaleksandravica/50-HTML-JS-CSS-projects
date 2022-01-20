@@ -139,6 +139,12 @@
 <img src="https://user-images.githubusercontent.com/79845207/150174277-7536fe80-8ceb-4d4b-aacf-2629ca7f7ce1.png" data-canonical-src ="https://user-images.githubusercontent.com/79845207/150174277-7536fe80-8ceb-4d4b-aacf-2629ca7f7ce1.png" width="400"/>
 
 #### Day 38 Mobile Tab Navigation
+<img src="https://user-images.githubusercontent.com/79845207/150321173-6b73ad47-2697-490c-b26c-2c634cdc7e63.png" data-canonical-src ="https://user-images.githubusercontent.com/79845207/150321173-6b73ad47-2697-490c-b26c-2c634cdc7e63.png" width="400"/>
+<img src="https://user-images.githubusercontent.com/79845207/150321208-abc6fdf2-b1c3-483d-8f81-38c2e327481b.png" data-canonical-src ="https://user-images.githubusercontent.com/79845207/150321208-abc6fdf2-b1c3-483d-8f81-38c2e327481b.png" width="400"/>
+
+#### Day 39 Password Strength Background
+
+
 
 
 
