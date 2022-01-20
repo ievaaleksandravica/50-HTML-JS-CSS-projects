@@ -143,8 +143,10 @@
 <img src="https://user-images.githubusercontent.com/79845207/150321208-abc6fdf2-b1c3-483d-8f81-38c2e327481b.png" data-canonical-src ="https://user-images.githubusercontent.com/79845207/150321208-abc6fdf2-b1c3-483d-8f81-38c2e327481b.png" width="400"/>
 
 #### Day 39 Password Strength Background
+<img src="https://user-images.githubusercontent.com/79845207/150328880-ccbd204f-fa80-41a4-80f8-bfa3c772e26a.png" data-canonical-src ="https://user-images.githubusercontent.com/79845207/150328880-ccbd204f-fa80-41a4-80f8-bfa3c772e26a.png" width="400"/>
+<img src="https://user-images.githubusercontent.com/79845207/150328934-fb7f0bf4-b905-487a-98eb-f4e101f60538.png" data-canonical-src ="https://user-images.githubusercontent.com/79845207/150328934-fb7f0bf4-b905-487a-98eb-f4e101f60538.png" width="400"/>
 
-
+#### Day 40 3D Background Boxes
 
 
 
