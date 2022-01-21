@@ -7,6 +7,5 @@ let blurLevel = 20
 password.addEventListener("keyup", (e) => {
     const length = password.value.length
     blurLevel -= blurStep
-    console.log(blurLevel)
     background.style.filter = `blur(${blurLevel}px)`
 })
