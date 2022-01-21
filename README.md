@@ -151,5 +151,7 @@
 <img src="https://user-images.githubusercontent.com/79845207/150510510-5cb0d4f2-4efb-4319-94c1-9d3c4db844ff.png" data-canonical-src ="https://user-images.githubusercontent.com/79845207/150510510-5cb0d4f2-4efb-4319-94c1-9d3c4db844ff.png" width="400"/>
 
 #### Day 41 Verify Account UI
+<img src="https://user-images.githubusercontent.com/79845207/150519488-5758734d-3dae-4124-bc5b-d6eaec06f25c.png" data-canonical-src ="https://user-images.githubusercontent.com/79845207/150519488-5758734d-3dae-4124-bc5b-d6eaec06f25c.png" width="400"/>
 
+#### Day 42 Live User Filter
 
