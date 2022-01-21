@@ -147,7 +147,9 @@
 <img src="https://user-images.githubusercontent.com/79845207/150328934-fb7f0bf4-b905-487a-98eb-f4e101f60538.png" data-canonical-src ="https://user-images.githubusercontent.com/79845207/150328934-fb7f0bf4-b905-487a-98eb-f4e101f60538.png" width="400"/>
 
 #### Day 40 3D Background Boxes
+<img src="https://user-images.githubusercontent.com/79845207/150510419-9293b786-7248-4829-a1d6-656be27fafce.png" data-canonical-src ="https://user-images.githubusercontent.com/79845207/150510419-9293b786-7248-4829-a1d6-656be27fafce.png" width="400"/>
+<img src="https://user-images.githubusercontent.com/79845207/150510510-5cb0d4f2-4efb-4319-94c1-9d3c4db844ff.png" data-canonical-src ="https://user-images.githubusercontent.com/79845207/150510510-5cb0d4f2-4efb-4319-94c1-9d3c4db844ff.png" width="400"/>
 
-
+#### Day 41 Verify Account UI
 
 
