@@ -28,7 +28,6 @@ async function getData() {
         `
         result.appendChild(li)
     })
-
 }
 
 function filterData(searchTerm) {
