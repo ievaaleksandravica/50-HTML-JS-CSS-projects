@@ -158,3 +158,9 @@
 <img src="https://user-images.githubusercontent.com/79845207/150975742-19272ba7-b479-4bfe-882a-27a6248bcce0.png" data-canonical-src ="https://user-images.githubusercontent.com/79845207/150975742-19272ba7-b479-4bfe-882a-27a6248bcce0.png" width="400"/>
 
 #### Day 43 Feedback UI Design
+<img src="https://user-images.githubusercontent.com/79845207/151190200-48377ed2-b8c8-4fc2-ac2a-fb53c29a95eb.png" data-canonical-src ="https://user-images.githubusercontent.com/79845207/151190200-48377ed2-b8c8-4fc2-ac2a-fb53c29a95eb.png" width="400"/>
+<img src="https://user-images.githubusercontent.com/79845207/151190266-694a4178-20e6-4ec0-aaee-9c3f3790f30d.png" data-canonical-src ="https://user-images.githubusercontent.com/79845207/151190266-694a4178-20e6-4ec0-aaee-9c3f3790f30d.png" width="400"/>
+
+#### Day 44 Custom Range Slider
+
+
