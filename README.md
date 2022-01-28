@@ -162,5 +162,7 @@
 <img src="https://user-images.githubusercontent.com/79845207/151190266-694a4178-20e6-4ec0-aaee-9c3f3790f30d.png" data-canonical-src ="https://user-images.githubusercontent.com/79845207/151190266-694a4178-20e6-4ec0-aaee-9c3f3790f30d.png" width="400"/>
 
 #### Day 44 Custom Range Slider
+<img src="https://user-images.githubusercontent.com/79845207/151586340-c1ab6d34-a501-4ac5-ba74-3a67730f8f4d.png" data-canonical-src ="https://user-images.githubusercontent.com/79845207/151586340-c1ab6d34-a501-4ac5-ba74-3a67730f8f4d.png" width="400"/>
+<img src="https://user-images.githubusercontent.com/79845207/151586303-0ac1b3ae-ed5d-4f08-8a7f-63a9bd16a7eb.png" data-canonical-src ="https://user-images.githubusercontent.com/79845207/151586303-0ac1b3ae-ed5d-4f08-8a7f-63a9bd16a7eb.png" width="400"/>
 
-
+#### Day 45 Netflix Navigation
