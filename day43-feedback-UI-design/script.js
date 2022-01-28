@@ -1,7 +1,6 @@
 const ratings = document.querySelectorAll(".rating")
 
 const ratingsContainer = document.querySelector(".ratings-container")
-console.log(ratingsContainer)
 
 const sendBtn = document.querySelector("#send")
 const panel = document.querySelector("#panel")
