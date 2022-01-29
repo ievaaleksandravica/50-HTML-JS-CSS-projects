@@ -173,4 +173,7 @@
 <img src="https://user-images.githubusercontent.com/79845207/151655431-0f945261-a00f-4ba8-9d5d-69bf6e515c27.png" data-canonical-src ="https://user-images.githubusercontent.com/79845207/151655431-0f945261-a00f-4ba8-9d5d-69bf6e515c27.png" width="400"/>
 
 #### Day 47 Testimonial Box Switcher
+<img src="https://user-images.githubusercontent.com/79845207/151657252-cc8ce86a-8a00-4944-9c63-23f114191b77.png" data-canonical-src ="https://user-images.githubusercontent.com/79845207/151657252-cc8ce86a-8a00-4944-9c63-23f114191b77.png" width="400"/>
+<img src="https://user-images.githubusercontent.com/79845207/151657259-efecd24b-9d5c-4edf-9cc1-80caf9f4f050.png" data-canonical-src ="https://user-images.githubusercontent.com/79845207/151657259-efecd24b-9d5c-4edf-9cc1-80caf9f4f050.png" width="400"/>
 
+#### Day 48 Random Image Feed
