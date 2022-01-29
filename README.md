@@ -184,4 +184,5 @@
 <img src="https://user-images.githubusercontent.com/79845207/151660579-ff2338bc-1a9a-459f-b196-046c4c029199.png" data-canonical-src ="https://user-images.githubusercontent.com/79845207/151660579-ff2338bc-1a9a-459f-b196-046c4c029199.png" width="400"/>
 
 #### Day 50 Insect Catch Game
+<img src="https://user-images.githubusercontent.com/79845207/151662629-62f22562-3723-42fa-b371-a2dcedd24bf7.png" data-canonical-src ="https://user-images.githubusercontent.com/79845207/151662629-62f22562-3723-42fa-b371-a2dcedd24bf7.png" width="400"/>
 
