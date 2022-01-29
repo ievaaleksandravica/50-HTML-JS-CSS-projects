@@ -167,6 +167,5 @@
 
 #### Day 45 Netflix Navigation
 <img src="https://user-images.githubusercontent.com/79845207/151653855-8c9ba44c-5e9e-498e-868d-623838dbfac5.png" data-canonical-src ="https://user-images.githubusercontent.com/79845207/151653855-8c9ba44c-5e9e-498e-868d-623838dbfac5.png" width="400"/>
-<img src="https://user-images.githubusercontent.com/79845207/151653894-dc8e85d6-8a51-4084-a401-1b78f255af33.png" data-canonical-src ="https://user-images.githubusercontent.com/79845207/151653894-dc8e85d6-8a51-4084-a401-1b78f255af33.png" width="400"/>
 
 #### Day 46 Quiz App
