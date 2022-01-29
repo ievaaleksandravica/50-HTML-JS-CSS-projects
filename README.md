@@ -169,3 +169,8 @@
 <img src="https://user-images.githubusercontent.com/79845207/151653855-8c9ba44c-5e9e-498e-868d-623838dbfac5.png" data-canonical-src ="https://user-images.githubusercontent.com/79845207/151653855-8c9ba44c-5e9e-498e-868d-623838dbfac5.png" width="400"/>
 
 #### Day 46 Quiz App
+<img src="https://user-images.githubusercontent.com/79845207/151655417-8050b79e-684a-4387-ba94-1376932fedeb.png" data-canonical-src ="https://user-images.githubusercontent.com/79845207/151655417-8050b79e-684a-4387-ba94-1376932fedeb.png" width="400"/>
+<img src="https://user-images.githubusercontent.com/79845207/151655431-0f945261-a00f-4ba8-9d5d-69bf6e515c27.png" data-canonical-src ="https://user-images.githubusercontent.com/79845207/151655431-0f945261-a00f-4ba8-9d5d-69bf6e515c27.png" width="400"/>
+
+#### Day 47 Testimonial Box Switcher
+
